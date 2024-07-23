@@ -31,4 +31,4 @@ bun run index.ts
 
 ## Notes
 
-Ensure you have the correct RPC endpoint configured for accessing the Ethereum mainnet or the desired chain fork.
+Ensure you have the correct RPC endpoint configured for accessing the Ethereum mainnet or the desired chain fork. Currently I am using the Tenderly Mainnet RPC 
